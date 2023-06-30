@@ -1,0 +1,21 @@
+brand|Website/brands/b1.jpg|https://inwfile.com/s-cy/nck4pk.jpg|Monroe
+brand|Website/brands/b2.jpg|https://www.muraldecal.com/en/img/asfs952-jpg/folder/products-listado-merchant/stickers-kyb-classic.jpg|KYB
+brand|Website/brands/b3.jpg|https://www.muraldecal.com/en/img/asfs1695-jpg/folder/products-listado-merchant/stickers-bosch-logo.jpg|Bosch
+brand|Website/brands/b4.jpg|https://m.media-amazon.com/images/I/51J1oyKgDuL._AC_SX522_.jpg|Luk
+brand|Website/brands/b5.jpg|https://pbs.twimg.com/profile_images/775705025163169793/dfHX8tiq_400x400.jpg|Moog
+brand|Website/brands/b6.jpg|https://ih1.redbubble.net/image.3954137503.8506/st,small,507x507-pad,600x600,f8f8f8.jpg|Mahle
+category|Website/categories/cat5.jpg|https://d3hvs2gyy8n2xz.cloudfront.net/blog/wp-content/uploads/2016/01/19120013/what-does-transmission-do.jpg|Down Pipe|Transmission
+category|Website/categories/cat4.jpg|https://5.imimg.com/data5/ANDROID/Default/2022/6/RC/SP/CU/53866801/product-jpeg.jpg|Water Pump|Engine
+category|Website/categories/cat3.jpg|https://www.paramount-performance.com/wp-content/uploads/2021/01/milltek-exhaust-bmw-m2-f87-pic4.jpg|Cylinder Head|Engine
+category|Website/categories/cat2.jpg|https://static.summitracing.com/global/images/prod/large/wil-140-2113-bd_iy.jpg|Casual Trousers|Transmission
+category|Website/categories/cat1.jpg|https://images-na.ssl-images-amazon.com/images/I/71kv3xCv1gL._AC_UL600_SR600,600_.jpg|Oil Filter|Engine
+category|Website/categories/cat6.jpg|https://i.ebayimg.com/images/g/WEgAAOSwGLpfW96p/s-l1600.jpg|Sports Shoes|Transmission
+carousel|Website/carousel/c1.jpg|https://blueskyautoparts.com.au/img/banner-1.jpg
+carousel|Website/carousel/c4.jpg|https://jctautoparts.co.za/wp-content/uploads/2018/12/Banner1.jpg
+carousel|Website/carousel/c2.png|https://www.silvertonautobody.co.za/wp-content/uploads/2020/08/Home-Banner-1-1920x500.png
+carousel|Website/carousel/c3.jpg|https://americawest.com.au/wp-content/uploads/2021/09/America-West-Automotive-Shipping-car-parts.jpg
+carousel|Website/carousel/men-circular-icon.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105986/s6hkposzszbldqrb1rzn.jpg|Transmission
+carousel|Website/carousel/women-circular-icon.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105986/nbdn4usqzbklceqquf4j.jpg|Engine
+carousel|Website/carousel/kids-circular-icon.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105987/yafkspofakzpyxywuuyu.jpg|Exhaust,Body
+carousel|Website/carousel/home-circular-icon.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105988/koa6wiqk3dh41wzofzns.jpg|Brake
+carousel|Website/carousel/essentials-circular-icon.jpg|https://res.cloudinary.com/drzudfgzl/image/upload/v1596105989/vjrturanxn2gkpj1d3nt.jp2|Suspension
